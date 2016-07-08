@@ -11,7 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
         echo "<p>editando<p>";
         ?>
         <h1>Teste Git e Hostinger</h1>
