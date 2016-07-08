@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Teste Git e Hostinger</title>
+        <title>Git e Hostinger e Snap</title>
     </head>
     <body>
         <?php
