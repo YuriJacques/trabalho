@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        echo "editando";
         ?>
         <h1>Teste Git e Hostinger</h1>
         <p>So mais um teste Snap CI</p>
