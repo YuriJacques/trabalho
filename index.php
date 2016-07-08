@@ -17,5 +17,6 @@ and open the template in the editor.
         <h1>Teste Git e Hostinger segundo</h1>
         <p>So mais um teste Snap CI</p>
         <h1>Teste com integração pronta</h1>
+        <p>Nova apresentação</p>
     </body>
 </html>
