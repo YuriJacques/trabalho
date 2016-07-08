@@ -14,7 +14,7 @@ and open the template in the editor.
         // put your code here
         ?>
         <h1>Teste Git e Hostinger</h1>
-
+        <p>So mais um teste Snap CI</p>
         <h1>Teste com integração pronta</h1>
     </body>
 </html>
